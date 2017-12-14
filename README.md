@@ -1,7 +1,7 @@
-#Git Workflow Overview
+# Git Workflow Overview
 The standard git workflow for any project goes like this:
 
-##Project Creator
+## Project Creator
 * If you are the creator of the project, create a new repostiory on https://github.com/Spitballers and clone the project into your machine using `git clone https://github.com/Spitballers/<project_name>` on to your working directory
 
 * You will need to create a new file and push it back to the github repository in order for other collaborators to fork your project (ie you cannot fork an empty project). **GOOD** practice is to make a readme file using either markdown or plaintext (if you are a beta).
@@ -19,4 +19,3 @@ The standard git workflow for any project goes like this:
 	* `git status` to verify that your commit message went as expected.
 	* Once everything looks good you may push your inital repo files using `git push origin master`
 	* Verify that your files have been uploaded to the github repo by visiting https://github.com/Spitballers/ and locating the repository you created.
-	
