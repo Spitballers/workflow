@@ -1,6 +1,8 @@
 # Git Workflow Overview
 Sup, freak bitches! Read through our workflow for code collaboration and version control using github.
 
+**DISCLAIMER: This document is definitely up for debate and constant revison. As of ee256d078efbcf4f2b3cc5bb1ab01ea45e6a71fa only Antonio contributed to this document and he's a bit of a loony if you ask me**
+
 ## Project Creator
 * If you are the creator of the project, create a new repostiory on https://github.com/Spitballers and clone the project into your machine using `git clone https://github.com/Spitballers/<project_name>` on to your working directory
 
