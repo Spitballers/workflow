@@ -87,8 +87,6 @@ Mac users: Alternatively, you can install Git through [Homebrew](https://brew.sh
 
 You can use Homebrew to install crucial development tools like git, TestNG, node, MongoDB, and JSHint (just to name a few).
 
----
-
 My (our?) university has done a piss poor job of teaching us how to properly use git. Follow at least the first ~30 or so [tutorials](http://gitimmersion.com) if you need a refresher or if you are new to git. 
 
 [Here](http://youtu.be/75_UrC2unv4) is a decent video explaining forking and pull requests.
