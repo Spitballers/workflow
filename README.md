@@ -1,5 +1,5 @@
 # Git Workflow Overview
-The standard git workflow for any project goes like this:
+Sup, freak bitches! Read through our workflow for collaborating and version control using github.
 
 ## Project Creator
 * If you are the creator of the project, create a new repostiory on https://github.com/Spitballers and clone the project into your machine using `git clone https://github.com/Spitballers/<project_name>` on to your working directory
