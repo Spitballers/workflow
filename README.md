@@ -39,22 +39,22 @@ Sup, freak bitches! Read through our workflow for code collaboration and version
 * This is so that any future reviewed/merged code made by other devs can be pulled to your machine in the future using `git pull upstream master`.
 
 ### Revision and Development Cycle
-* `git status` to see that you're starting from a clean state.
+1. `git status` to see that you're starting from a clean state.
 	* Make sure your are in the `master` branch. Unless you're using an intermediate strategy of cutting feature branches, all your changes should be made on your fork's `master` branch.
 
-* Write the smallest possible change to your code that adds or improves something without breaking anything that used to work.
+2. Write the smallest possible change to your code that adds or improves something without breaking anything that used to work.
 
-* `git status` to see if you're right about which files have changed. You can also (optionally) use `git diff` to review your code and verify that you're happy with all the things that have changed.
+3. `git status` to see if you're right about which files have changed. You can also (optionally) use `git diff` to review your code and verify that you're happy with all the things that have changed.
 
-* `git add` the files you want to commit.
+4. `git add` the files you want to commit.
 
-* `git status` to verify that all and only the files you intended to add were added.
+5. `git status` to verify that all and only the files you intended to add were added.
 
-* `git commit` to commit your changes to the commit history. Again, avoid using the `-a` and `-m` flags as much as possible.
+6. `git commit` to commit your changes to the commit history. Again, avoid using the `-a` and `-m` flags as much as possible.
 
-* `git push origin master` to send your changes back up to the forked repo on your Github account.
+7. `git push origin master` to send your changes back up to the forked repo on your Github account.
 
-* Repeat this cycle until your code is in the shape you ultimately want it.
+8. Repeat this cycle until your code is in the shape you ultimately want it.
 
 ## Pull requests
 * You may want to figure out how to do pull requests using CLI but github does it really well on their website.
