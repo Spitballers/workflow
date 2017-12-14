@@ -56,7 +56,7 @@ Sup, freak bitches! Read through our workflow for code collaboration and version
 
 * Repeat this cycle until your code is in the shape you ultimately want it.
 
-### Pull requests
+## Pull requests
 * You may want to figure out how to do pull requests using CLI but github does it really well on their website.
 
 1. In Github, go to your forked repository of the project you want to submit a pull request. Make sure the branch you want is selected.
@@ -77,13 +77,21 @@ The basic idea is that we can just assess pull-requests and merge them as we see
 As a team, we should probably look into how we can be constructive about our feedback.
 
 We also need to figure out naming conventions, title casing, indentation and all that good shit. There will probably be a document about it in the future.
+---
 
+## External Resources
+You'll need to install Git obviously. You can install Git using either the one-click installer available on [Git's website](https://git-scm.com/downloads).
 
+Mac users: Alternatively, you can install Git through [Homebrew](https://brew.sh/). Homebrew is a utility that will let you install many of the web development tools you'll probably use throughout your career.
 
+You can use Homebrew to install crucial development tools like git, TestNG, node, MongoDB, and JSHint (just to name a few).
+---
 
+My (our?) university has done a piss poor job of teaching us how to properly use git. Follow at least the first ~30 or so [tutorials](http://gitimmersion.com) if you need a refresher or if you are new to git. 
 
+[Here](http://youtu.be/75_UrC2unv4) is a decent video explaining forking and pull requests.
 
-
+For a fun and quick read on commit message best practices, check out [Chris Beams's How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/#seven-rules).
 
 
 
