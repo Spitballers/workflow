@@ -93,6 +93,8 @@ My (our?) university has done a piss poor job of teaching us how to properly use
 
 For a fun and quick read on commit message best practices, check out [Chris Beams's How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/#seven-rules).
 
+[Here](http://commonmark.org/help/) is a cheatsheet on Markdown.
+
 
 
 
