@@ -1,5 +1,5 @@
 # Git Workflow Overview
-Sup, freak bitches! Read through our workflow for collaborating and version control using github.
+Sup, freak bitches! Read through our workflow for code collaboration and version control using github.
 
 ## Project Creator
 * If you are the creator of the project, create a new repostiory on https://github.com/Spitballers and clone the project into your machine using `git clone https://github.com/Spitballers/<project_name>` on to your working directory
@@ -51,6 +51,30 @@ Sup, freak bitches! Read through our workflow for collaborating and version cont
 * `git commit` to commit your changes to the commit history. Again, avoid using the `-a` and `-m` flags as much as possible.
 
 * `git push origin master` to send your changes back up to the forked repo on your Github account.
+
+* Repeat this cycle until your code is in the shape you ultimately want it.
+
+### Pull requests
+* You may want to figure out how to do pull requests using CLI but github does it really well on their website.
+
+1. In Github, go to your forked repository of the project you want to submit a pull request. Make sure the branch you want is selected.
+
+2. Click on 'New pull request'.
+
+3. The base fork should be `Spitballers/<repo_name>` and the base will depend on the branch you want to merge with. Usually `master`.
+
+4. The head fork and base fork should have been preset for you depending on the branch you selected in step ii.
+
+5. Hopefully, you'll see **Able to merge** with a green tick mark just below the fork selection div. If not, you can still create a pull request (do not recommend), but know that you just ruined someone's evening having to deal with conflicts with your spaghetti ass code.
+
+6. Your pull request will be reviewed by another dev and merged if everything goes well. Keep an eye out for messages/feedback.
+
+### Code review
+The basic idea is that we can just assess pull-requests and merge them as we see fit.
+
+As a team, we should probably look into how we can be constructive about our feedback.
+
+We also need to figure out naming conventions, title casing, indentation and all that good shit. There will probably be a document about it in the future.
 
 
 
